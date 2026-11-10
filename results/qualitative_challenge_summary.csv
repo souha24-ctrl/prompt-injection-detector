@@ -1,0 +1,4 @@
+expected_label,Matched expected label,Number of examples
+benign,1,6
+injection,1,4
+jailbreak,5,5
